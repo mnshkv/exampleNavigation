@@ -11,6 +11,17 @@
 		1752E6F229F67DFC00C95FD2 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1752E6F129F67DFC00C95FD2 /* ContentView.swift */; };
 		1752E6F429F67DFE00C95FD2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1752E6F329F67DFE00C95FD2 /* Assets.xcassets */; };
 		1752E6F729F67DFE00C95FD2 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1752E6F629F67DFE00C95FD2 /* Preview Assets.xcassets */; };
+		1752E6FF29F67E2900C95FD2 /* Coordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1752E6FE29F67E2900C95FD2 /* Coordinator.swift */; };
+		1752E70129F67E5900C95FD2 /* IdentifiableObject.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1752E70029F67E5900C95FD2 /* IdentifiableObject.swift */; };
+		1752E70729F67EA000C95FD2 /* AppCoordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1752E70629F67EA000C95FD2 /* AppCoordinator.swift */; };
+		1752E70929F67F3E00C95FD2 /* AppCoordinatorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1752E70829F67F3E00C95FD2 /* AppCoordinatorView.swift */; };
+		17B6495D29F8370400DFBA3F /* Stack1View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17B6495C29F8370400DFBA3F /* Stack1View.swift */; };
+		17B6495F29F8371600DFBA3F /* Stack2View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17B6495E29F8371600DFBA3F /* Stack2View.swift */; };
+		17B6496329F8376600DFBA3F /* Stack1ViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17B6496229F8376600DFBA3F /* Stack1ViewModel.swift */; };
+		17B6496529F8379900DFBA3F /* Stack2ViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17B6496429F8379900DFBA3F /* Stack2ViewModel.swift */; };
+		17B6496729F8396B00DFBA3F /* CoverCoordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17B6496629F8396B00DFBA3F /* CoverCoordinator.swift */; };
+		17B6496929F83B9900DFBA3F /* CoverCoordinatorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17B6496829F83B9900DFBA3F /* CoverCoordinatorView.swift */; };
+		17B6496D29F844E500DFBA3F /* ExamplePageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17B6496C29F844E500DFBA3F /* ExamplePageView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +30,18 @@
 		1752E6F129F67DFC00C95FD2 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		1752E6F329F67DFE00C95FD2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1752E6F629F67DFE00C95FD2 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		1752E6FE29F67E2900C95FD2 /* Coordinator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Coordinator.swift; sourceTree = "<group>"; };
+		1752E70029F67E5900C95FD2 /* IdentifiableObject.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IdentifiableObject.swift; sourceTree = "<group>"; };
+		1752E70629F67EA000C95FD2 /* AppCoordinator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppCoordinator.swift; sourceTree = "<group>"; };
+		1752E70829F67F3E00C95FD2 /* AppCoordinatorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppCoordinatorView.swift; sourceTree = "<group>"; };
+		17B6495C29F8370400DFBA3F /* Stack1View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Stack1View.swift; sourceTree = "<group>"; };
+		17B6495E29F8371600DFBA3F /* Stack2View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Stack2View.swift; sourceTree = "<group>"; };
+		17B6496229F8376600DFBA3F /* Stack1ViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Stack1ViewModel.swift; sourceTree = "<group>"; };
+		17B6496429F8379900DFBA3F /* Stack2ViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Stack2ViewModel.swift; sourceTree = "<group>"; };
+		17B6496629F8396B00DFBA3F /* CoverCoordinator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoverCoordinator.swift; sourceTree = "<group>"; };
+		17B6496829F83B9900DFBA3F /* CoverCoordinatorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoverCoordinatorView.swift; sourceTree = "<group>"; };
+		17B6496B29F8427C00DFBA3F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		17B6496C29F844E500DFBA3F /* ExamplePageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExamplePageView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +74,9 @@
 		1752E6EE29F67DFB00C95FD2 /* hackCoordinator */ = {
 			isa = PBXGroup;
 			children = (
+				17B6496B29F8427C00DFBA3F /* Info.plist */,
+				1752E70229F67E6400C95FD2 /* Flows */,
+				1752E6FD29F67E1200C95FD2 /* Utils */,
 				1752E6EF29F67DFC00C95FD2 /* hackCoordinatorApp.swift */,
 				1752E6F129F67DFC00C95FD2 /* ContentView.swift */,
 				1752E6F329F67DFE00C95FD2 /* Assets.xcassets */,
@@ -65,6 +91,55 @@
 				1752E6F629F67DFE00C95FD2 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		1752E6FD29F67E1200C95FD2 /* Utils */ = {
+			isa = PBXGroup;
+			children = (
+				1752E6FE29F67E2900C95FD2 /* Coordinator.swift */,
+				1752E70029F67E5900C95FD2 /* IdentifiableObject.swift */,
+			);
+			path = Utils;
+			sourceTree = "<group>";
+		};
+		1752E70229F67E6400C95FD2 /* Flows */ = {
+			isa = PBXGroup;
+			children = (
+				17B6496029F8372300DFBA3F /* Cover */,
+				17B6495B29F836F800DFBA3F /* Stack2 */,
+				17B6495A29F836EE00DFBA3F /* Stack1 */,
+				1752E70629F67EA000C95FD2 /* AppCoordinator.swift */,
+				1752E70829F67F3E00C95FD2 /* AppCoordinatorView.swift */,
+				17B6496C29F844E500DFBA3F /* ExamplePageView.swift */,
+			);
+			path = Flows;
+			sourceTree = "<group>";
+		};
+		17B6495A29F836EE00DFBA3F /* Stack1 */ = {
+			isa = PBXGroup;
+			children = (
+				17B6495C29F8370400DFBA3F /* Stack1View.swift */,
+				17B6496229F8376600DFBA3F /* Stack1ViewModel.swift */,
+			);
+			path = Stack1;
+			sourceTree = "<group>";
+		};
+		17B6495B29F836F800DFBA3F /* Stack2 */ = {
+			isa = PBXGroup;
+			children = (
+				17B6495E29F8371600DFBA3F /* Stack2View.swift */,
+				17B6496429F8379900DFBA3F /* Stack2ViewModel.swift */,
+			);
+			path = Stack2;
+			sourceTree = "<group>";
+		};
+		17B6496029F8372300DFBA3F /* Cover */ = {
+			isa = PBXGroup;
+			children = (
+				17B6496629F8396B00DFBA3F /* CoverCoordinator.swift */,
+				17B6496829F83B9900DFBA3F /* CoverCoordinatorView.swift */,
+			);
+			path = Cover;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -137,8 +212,19 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				17B6496529F8379900DFBA3F /* Stack2ViewModel.swift in Sources */,
 				1752E6F229F67DFC00C95FD2 /* ContentView.swift in Sources */,
+				17B6496329F8376600DFBA3F /* Stack1ViewModel.swift in Sources */,
 				1752E6F029F67DFC00C95FD2 /* hackCoordinatorApp.swift in Sources */,
+				17B6496D29F844E500DFBA3F /* ExamplePageView.swift in Sources */,
+				17B6495D29F8370400DFBA3F /* Stack1View.swift in Sources */,
+				1752E70729F67EA000C95FD2 /* AppCoordinator.swift in Sources */,
+				1752E70129F67E5900C95FD2 /* IdentifiableObject.swift in Sources */,
+				17B6496929F83B9900DFBA3F /* CoverCoordinatorView.swift in Sources */,
+				1752E6FF29F67E2900C95FD2 /* Coordinator.swift in Sources */,
+				17B6496729F8396B00DFBA3F /* CoverCoordinator.swift in Sources */,
+				17B6495F29F8371600DFBA3F /* Stack2View.swift in Sources */,
+				1752E70929F67F3E00C95FD2 /* AppCoordinatorView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -269,11 +355,13 @@
 				DEVELOPMENT_ASSET_PATHS = "\"hackCoordinator/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = hackCoordinator/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -297,11 +385,13 @@
 				DEVELOPMENT_ASSET_PATHS = "\"hackCoordinator/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = hackCoordinator/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
